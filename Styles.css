@@ -10,7 +10,7 @@ body{
     width: auto;
 }
 .navbar{
-    background-color: #A1CCA5; /*The navbar has this soft, muted cyan colour*/
+    background-color: #A1CCA5;
     display: flex;
     align-items: center;/*vertically center items on the navbar*/
     padding: 10px 40px;
